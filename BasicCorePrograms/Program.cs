@@ -33,9 +33,13 @@ namespace BasicCorePrograms
             Division.TakeInput();
             Division.DisplayResult();
 
-            Console.WriteLine("\nProblem 7: SwapTwoNumbers");
+            Console.WriteLine("\nProblem 7: Swap Two Numbers");
             SwapNumbers.TakeInput();
             SwapNumbers.DisplayResult();
+
+            Console.WriteLine("\nProblem 8: Check Even Or Odd");
+            EvenOdd.TakeInput();
+            EvenOdd.DisplayResult();
         }
     }
 }
