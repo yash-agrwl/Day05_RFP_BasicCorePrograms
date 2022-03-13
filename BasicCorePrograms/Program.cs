@@ -28,6 +28,10 @@ namespace BasicCorePrograms
             Console.WriteLine("\nProblem 5: Factors");
             PrimeFactors.TakeInput();
             PrimeFactors.DisplayResult();
+
+            Console.WriteLine("\nProblem 6: Division");
+            Division.TakeInput();
+            Division.DisplayResult();
         }
     }
 }
