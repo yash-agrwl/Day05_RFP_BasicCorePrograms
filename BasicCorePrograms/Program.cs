@@ -32,6 +32,10 @@ namespace BasicCorePrograms
             Console.WriteLine("\nProblem 6: Division");
             Division.TakeInput();
             Division.DisplayResult();
+
+            Console.WriteLine("\nProblem 7: SwapTwoNumbers");
+            SwapNumbers.TakeInput();
+            SwapNumbers.DisplayResult();
         }
     }
 }
