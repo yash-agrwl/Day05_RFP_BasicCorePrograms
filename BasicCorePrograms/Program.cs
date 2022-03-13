@@ -24,6 +24,10 @@ namespace BasicCorePrograms
             Console.WriteLine("\nProblem 4: Harmonic Number");
             HarmonicNumber.TakeInput();
             HarmonicNumber.DisplayResult();
+
+            Console.WriteLine("\nProblem 5: Factors");
+            PrimeFactors.TakeInput();
+            PrimeFactors.DisplayResult();
         }
     }
 }
