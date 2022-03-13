@@ -20,6 +20,10 @@ namespace BasicCorePrograms
             Console.WriteLine("\nProblem 3: Power Of 2");
             PowerOf2.TakeInput();
             PowerOf2.DisplayResult();
+
+            Console.WriteLine("\nProblem 4: Harmonic Number");
+            HarmonicNumber.TakeInput();
+            HarmonicNumber.DisplayResult();
         }
     }
 }
