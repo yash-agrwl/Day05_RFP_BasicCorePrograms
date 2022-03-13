@@ -40,6 +40,10 @@ namespace BasicCorePrograms
             Console.WriteLine("\nProblem 8: Check Even Or Odd");
             EvenOdd.TakeInput();
             EvenOdd.DisplayResult();
+
+            Console.WriteLine("\nProblem 9: Check Vowel Or Consonant");
+            VowelOrConsonant.TakeInput();
+            VowelOrConsonant.DisplayResult();
         }
     }
 }
