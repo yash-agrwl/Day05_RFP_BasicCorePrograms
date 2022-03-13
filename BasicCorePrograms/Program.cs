@@ -44,6 +44,10 @@ namespace BasicCorePrograms
             Console.WriteLine("\nProblem 9: Check Vowel Or Consonant");
             VowelOrConsonant.TakeInput();
             VowelOrConsonant.DisplayResult();
+
+            Console.WriteLine("\nProblem 10: Find Largest Among Three Numbers");
+            LargestNumber.TakeInput();
+            LargestNumber.DisplayResult();
         }
     }
 }
