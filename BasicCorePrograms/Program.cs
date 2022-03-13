@@ -16,6 +16,10 @@ namespace BasicCorePrograms
             Console.WriteLine("\nProblem 2: Leap Year");
             LeapYear.TakeInput();
             LeapYear.DisplayResult();
+
+            Console.WriteLine("\nProblem 3: Power Of 2");
+            PowerOf2.TakeInput();
+            PowerOf2.DisplayResult();
         }
     }
 }
